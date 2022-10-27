@@ -14,6 +14,7 @@ h1, h2 {
 h2 {
 	font-size: 35px;
 	color: #666666;
+	margin-top: 10px;
 }
 
 p.caption {
